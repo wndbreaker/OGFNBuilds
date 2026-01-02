@@ -4,8 +4,6 @@
 
 If you with to copy a version from here, just credit everybody above.
 
-I'm to lazy to make ever
-
 # Downloads
 # Fortnite Builds
 The largest Fortnite Builds Archive maintained by simplyblk. 

@@ -1,6 +1,6 @@
 # OG Fortnite Builds
 
-# Most builds dont come from me and come from [https://github.com/n6617x/Fortnitebuilds](here) + notsamiccs because they are also credited on n6617x + [llamaqwerty](https://github.com/llamaqwerty/fortnite-builds-archive) which has a bit newer builds the Season 20 but will require a Custom Game Server which you can get [here (Qor's OGFN Center)](https://discord.gg/qor) and go to the #[Erbium](https://discord.com/channels/1455458269085696137/1456508269983174677) channel to obtain the Game Server and Tutorial.
+# Most builds dont come from me and come from [https://github.com/n6617x/Fortnitebuilds](here) + notsamiccs because they are also credited on n6617x + [llamaqwerty](https://github.com/llamaqwerty/fortnite-builds-archive) which has a bit newer builds the Season 20 but will require a Custom Game Server which you can get [here (Qor's OGFN Center)](https://discord.gg/qor) and go to the [#Erbium](https://discord.com/channels/1455458269085696137/1456508269983174677) channel to obtain the Game Server and Tutorial.
 
 If you with to copy a version from here, just credit everybody above.
 
